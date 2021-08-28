@@ -1,0 +1,76 @@
+				<div class="products-grid__outerdiv">
+					<div class="product-grid-component" style="height: auto;overflow: hidden;margin-top: 100px;">
+						<!-- <h1>Products</h1> -->
+						<div class="grid" style="min-height: 100%;">
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/2.svg" alt="product icon" class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+							<div class="gridProduct">
+								<div>
+									<img src="./static/images/undraw_mobile_images.svg" alt="product icon"
+										class="gridProduct__media">
+								</div>
+								<div class="gridProduct__title">Product</div>
+							</div>
+						</div>
+					</div>
+				</div>
