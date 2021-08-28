@@ -355,7 +355,7 @@ svg:not(:root) {
 
 .layer {
   fill: #fff;
-  background-image: url('/static/images/layered-waves-haikei.svg');
+  background-image: url('./images/layered-waves-haikei.svg');
 }
 
 
